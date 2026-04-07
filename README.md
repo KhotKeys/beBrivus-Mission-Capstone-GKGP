@@ -222,6 +222,9 @@ cd backend
 python manage.py check
 python manage.py test
 ```
+or
+
+python manage.py runserver
 
 Frontend checks:
 
@@ -230,6 +233,9 @@ cd frontend
 npm run lint
 npm run build
 ```
+or
+
+npm run dev
 
 ## 11. API Surface (Summary)
 
