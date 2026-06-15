@@ -28,6 +28,7 @@ Core product goals:
 
 ### Design Assets
 - **Figma Design**: [[https://www.figma.com](https://www.figma.com/design/CNoGWFBj59n4JHGY4oVd0X/beBrivus-Capstone-Figma-Design?node-id=4567-271&p=f)]
+- **Canva Slides Defense**: [[[https://www.canva.com](https://canva.link/knwk6mzu0rr5ct8))](https://canva.link/knwk6mzu0rr5ct8)] 
 - **Design Includes**:
   - Student dashboard wireframes
   - Mentors Portal layouts
