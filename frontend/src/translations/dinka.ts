@@ -181,7 +181,7 @@ export default {
   'Guaranteed Results': 'Wäk Wët',
   '92% of our fellows secure their dream opportunity': '92% ke wäär yëc cï wëu',
   'Apply Now - It\'s Free': 'Lɔ Piɔu - Akɔl',
-  'Join 15,000+ Fellows': 'Cök 15,000+ Wäär',
+  'Join 455+ Fellows': 'Cök 455+ Wäär',
   'Start your journey today': 'Cök wäk yïn piɔu',
   'Browse Opportunities First': 'Lɔn Cï Wëu Acïn',
   

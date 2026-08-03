@@ -105,11 +105,11 @@ export const AboutUsPage: React.FC = () => {
               </div>
               <div className="grid md:grid-cols-3 gap-3 xs:gap-4 sm:gap-5 lg:gap-6 ml-0 sm:ml-10 md:ml-12 lg:ml-16">
                 <div className="text-center p-3 xs:p-4 sm:p-5 lg:p-6 bg-primary-50 rounded-lg xs:rounded-xl">
-                  <div className="text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-primary-600 mb-1 xs:mb-1.5 sm:mb-2">15,000+</div>
+                  <div className="text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-primary-600 mb-1 xs:mb-1.5 sm:mb-2">455</div>
                   <div className="text-secondary-700 text-[10px] xs:text-xs sm:text-sm md:text-base">Active Users</div>
                 </div>
                 <div className="text-center p-3 xs:p-4 sm:p-5 lg:p-6 bg-success-50 rounded-lg xs:rounded-xl">
-                  <div className="text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-success-600 mb-1 xs:mb-1.5 sm:mb-2">8,500+</div>
+                  <div className="text-xl xs:text-2xl sm:text-3xl md:text-4xl font-bold text-success-600 mb-1 xs:mb-1.5 sm:mb-2">1,470</div>
                   <div className="text-secondary-700 text-[10px] xs:text-xs sm:text-sm md:text-base">Opportunities</div>
                 </div>
                 <div className="text-center p-3 xs:p-4 sm:p-5 lg:p-6 bg-warning-50 rounded-lg xs:rounded-xl">

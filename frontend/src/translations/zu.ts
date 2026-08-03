@@ -181,7 +181,7 @@ export default {
   'Guaranteed Results': 'Imiphumela Eqinisekisiwe',
   '92% of our fellows secure their dream opportunity': '92% yamalungu ethu athola ithuba lephupho lawo',
   'Apply Now - It\'s Free': 'Faka Isicelo Manje - Kumahhala',
-  'Join 15,000+ Fellows': 'Joyina Amalungu Angaphezu kuka-15,000',
+  'Join 455+ Fellows': 'Joyina Amalungu Angaphezu kuka-455',
   'Start your journey today': 'Qala uhambo lwakho namuhla',
   'Browse Opportunities First': 'Bheka Amathuba Kuqala',
   

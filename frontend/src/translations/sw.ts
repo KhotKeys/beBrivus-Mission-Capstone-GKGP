@@ -196,7 +196,7 @@ export default {
   'Guaranteed Results': 'Matokeo Yaliyohakikishwa',
   '92% of our fellows secure their dream opportunity': '92% ya wanachama wetu wanapata fursa wanazozitamani',
   'Apply Now - It\'s Free': 'Omba Sasa - Ni Bure',
-  'Join 15,000+ Fellows': 'Jiunge na Wanachama 15,000+',
+  'Join 455+ Fellows': 'Jiunge na Wanachama 455+',
   'Start your journey today': 'Anza safari yako leo',
   'Browse Opportunities First': 'Vinjari Fursa Kwanza',
   

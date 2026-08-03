@@ -72,7 +72,7 @@ export const HomePage: React.FC = () => {
                     <Users className="w-4 h-4 xs:w-5 xs:h-5 sm:w-6 sm:h-6 text-success-300" />
                   </div>
                   <div>
-                    <div className="text-base xs:text-lg sm:text-xl lg:text-2xl font-bold text-white">15K+</div>
+                    <div className="text-base xs:text-lg sm:text-xl lg:text-2xl font-bold text-white">455</div>
                     <div className="text-[10px] xs:text-xs sm:text-sm text-primary-200">
                       {t('Active Fellows')}
                     </div>
@@ -148,7 +148,7 @@ export const HomePage: React.FC = () => {
                           {t('Scholarships')}
                         </span>
                         <span className="text-secondary-300 font-semibold">
-                          2,847
+                          898
                         </span>
                       </div>
                       <div className="flex items-center justify-between p-3 bg-white/5 rounded-xl">
@@ -156,7 +156,7 @@ export const HomePage: React.FC = () => {
                           {t('Internships')}
                         </span>
                         <span className="text-secondary-300 font-semibold">
-                          1,923
+                          230
                         </span>
                       </div>
                       <div className="flex items-center justify-between p-3 bg-white/5 rounded-xl">
@@ -164,7 +164,7 @@ export const HomePage: React.FC = () => {
                           {t('Fellowships')}
                         </span>
                         <span className="text-secondary-300 font-semibold">
-                          456
+                          342
                         </span>
                       </div>
                     </div>
@@ -340,7 +340,7 @@ export const HomePage: React.FC = () => {
                   <Users className="w-6 h-6 xs:w-7 xs:h-7 sm:w-8 sm:h-8 text-white" />
                 </div>
                 <div className="text-2xl xs:text-3xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-success-300 to-success-400 bg-clip-text text-transparent mb-2 xs:mb-3">
-                  15K+
+                  455
                 </div>
                 <div className="text-sm xs:text-base sm:text-lg font-semibold text-white mb-1 xs:mb-2">
                   {t('Active Fellows')}
@@ -355,7 +355,7 @@ export const HomePage: React.FC = () => {
                   <Target className="w-6 h-6 xs:w-7 xs:h-7 sm:w-8 sm:h-8 text-white" />
                 </div>
                 <div className="text-2xl xs:text-3xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-primary-300 to-primary-400 bg-clip-text text-transparent mb-2 xs:mb-3">
-                  8.5K+
+                  1,470
                 </div>
                 <div className="text-sm xs:text-base sm:text-lg font-semibold text-white mb-1 xs:mb-2">
                   {t('Opportunities')}
@@ -370,7 +370,7 @@ export const HomePage: React.FC = () => {
                   <Award className="w-6 h-6 xs:w-7 xs:h-7 sm:w-8 sm:h-8 text-white" />
                 </div>
                 <div className="text-2xl xs:text-3xl sm:text-4xl lg:text-5xl font-bold bg-gradient-to-r from-warning-300 to-warning-400 bg-clip-text text-transparent mb-2 xs:mb-3">
-                  750+
+                  20
                 </div>
                 <div className="text-sm xs:text-base sm:text-lg font-semibold text-white mb-1 xs:mb-2">
                   {t('Expert Mentors')}
@@ -514,7 +514,7 @@ export const HomePage: React.FC = () => {
                   </div>
                   <div>
                     <div className="text-sm sm:text-base font-semibold text-white">
-                      {t('Join 15,000+ Fellows')}
+                      {t('Join 455+ Fellows')}
                     </div>
                     <div className="text-xs sm:text-sm">{t('Start your journey today')}</div>
                   </div>

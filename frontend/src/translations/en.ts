@@ -156,7 +156,7 @@ export default {
   'Guaranteed Results': 'Guaranteed Results',
   '92% of our fellows secure their dream opportunity': '92% of our fellows secure their dream opportunity',
   'Apply Now - It\'s Free': 'Apply Now - It\'s Free',
-  'Join 15,000+ Fellows': 'Join 15,000+ Fellows',
+  'Join 455+ Fellows': 'Join 455+ Fellows',
   'Start your journey today': 'Start your journey today',
   'Browse Opportunities First': 'Browse Opportunities First',
   

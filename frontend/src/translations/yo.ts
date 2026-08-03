@@ -181,7 +181,7 @@ export default {
   'Guaranteed Results': 'Awọn Abajade Ti A Fidi Mulẹ',
   '92% of our fellows secure their dream opportunity': '92% ti awọn ọmọ ẹgbẹ́ wa gba anfaani ala wọn',
   'Apply Now - It\'s Free': 'Bẹẹrẹ Bayi - O jẹ Ọfẹ',
-  'Join 15,000+ Fellows': 'Darapọ mọ 15,000+ Ọmọ Ẹgbẹ́',
+  'Join 455+ Fellows': 'Darapọ mọ 455+ Ọmọ Ẹgbẹ́',
   'Start your journey today': 'Bẹrẹ irin-ajo rẹ loni',
   'Browse Opportunities First': 'Wo Awọn Anfaani Ni Akọ́kọ́',
   

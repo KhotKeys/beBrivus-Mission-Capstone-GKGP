@@ -179,7 +179,7 @@ export default {
   'Guaranteed Results': 'የተረጋገጡ ውጤቶች',
   '92% of our fellows secure their dream opportunity': '92% የእኛ አባላት የህልማቸውን እድል ያገኛሉ',
   'Apply Now - It\'s Free': 'አሁን ያመልክቱ - ነፃ ነው',
-  'Join 15,000+ Fellows': '15,000+ አባላትን ይቀላቀሉ',
+  'Join 455+ Fellows': '455+ አባላትን ይቀላቀሉ',
   'Start your journey today': 'ጉዞዎን ዛሬ ይጀምሩ',
   'Browse Opportunities First': 'መጀመሪያ እድሎች ያስሱ',
   

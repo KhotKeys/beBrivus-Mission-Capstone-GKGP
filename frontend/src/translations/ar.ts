@@ -179,7 +179,7 @@ export default {
   'Guaranteed Results': 'نتائج مضمونة',
   '92% of our fellows secure their dream opportunity': '92% من زملائنا يحصلون على فرصة أحلامهم',
   'Apply Now - It\'s Free': 'قدم الآن - مجانًا',
-  'Join 15,000+ Fellows': 'انضم إلى +15,000 زميل',
+  'Join 455+ Fellows': 'انضم إلى +455 زميل',
   'Start your journey today': 'ابدأ رحلتك اليوم',
   'Browse Opportunities First': 'تصفح الفرص أولًا',
   

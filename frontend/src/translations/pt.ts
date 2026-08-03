@@ -181,7 +181,7 @@ export default {
   'Guaranteed Results': 'Resultados Garantidos',
   '92% of our fellows secure their dream opportunity': '92% de nossos membros garantem a oportunidade dos seus sonhos',
   'Apply Now - It\'s Free': 'Candidate-se Agora - É Grátis',
-  'Join 15,000+ Fellows': 'Junte-se a 15.000+ Membros',
+  'Join 455+ Fellows': 'Junte-se a 455+ Membros',
   'Start your journey today': 'Comece sua jornada hoje',
   'Browse Opportunities First': 'Navegar Oportunidades Primeiro',
   

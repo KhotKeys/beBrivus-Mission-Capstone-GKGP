@@ -97,9 +97,9 @@ export const PartnerWithUsPage: React.FC = () => {
 
   const impactMetrics = [
     { icon: Globe, value: '15+', label: 'African Countries Reached', color: 'text-success-600' },
-    { icon: Users, value: '2,400+', label: 'Students Supported', color: 'text-primary-600' },
+    { icon: Users, value: '455', label: 'Students Supported', color: 'text-primary-600' },
     { icon: TrendingUp, value: '82%', label: 'Opportunity Match Rate', color: 'text-warning-600' },
-    { icon: Award, value: '1,200+', label: 'Opportunities Listed', color: 'text-purple-600' }
+    { icon: Award, value: '1,470', label: 'Opportunities Listed', color: 'text-purple-600' }
   ];
 
   // Partnership Growth Data (2020-2026)

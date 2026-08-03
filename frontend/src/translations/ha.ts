@@ -181,7 +181,7 @@ export default {
   'Guaranteed Results': 'Sakamakon da aka Tabbatar',
   '92% of our fellows secure their dream opportunity': '92% na membobinmu suna samun damarmakin da suke so',
   'Apply Now - It\'s Free': 'Yi Aikace-aikace Yanzu - Kyauta ne',
-  'Join 15,000+ Fellows': 'Shiga 15,000+ Membobi',
+  'Join 455+ Fellows': 'Shiga 455+ Membobi',
   'Start your journey today': 'Fara tafiyarka yau',
   'Browse Opportunities First': 'Duba Damarmakin Da Farko',
   
